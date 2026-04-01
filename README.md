@@ -40,13 +40,6 @@ It categorizes incoming leads based on their budget and triggers automated actio
 
 ---
 
-## 📂 Project Structure
-
-```
-/workflow.json   # Main automation workflow
-```
-
----
 
 ## 🚀 Getting Started
 
